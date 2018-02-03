@@ -1,0 +1,17 @@
+body {
+   background: #21c1fc;
+   font-family:monospace;
+}
+
+button {
+   margin: 10px;
+   
+}
+
+
+.wraper {
+   max-width: 500px;
+   margin: 10% auto;
+   text-align: center;
+   }
+
